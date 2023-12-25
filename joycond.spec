@@ -1,5 +1,5 @@
 Name:           joycond
-Version:        master
+Version:        {{{ git_dir_version }}}
 Release:        1%{?dist}
 Summary:        Nintendo Switch Pro and Joycon pairing Daemon
 
